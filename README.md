@@ -9,6 +9,7 @@ Daily summaries of [GitHub Trending](https://github.com/trending) repositories, 
 | [2026-07-25](2026-07-25.md) | block/buzz | 3,270 |
 | [2026-07-26](2026-07-26.md) | block/buzz | 2,491 |
 | [2026-07-27](2026-07-27.md) | block/buzz | 1,710 |
+| [2026-07-28](2026-07-28.md) | permissionlesstech/bitchat | 2,346 |
 
 ---
 
