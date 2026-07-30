@@ -11,6 +11,7 @@ Daily summaries of [GitHub Trending](https://github.com/trending) repositories, 
 | [2026-07-27](2026-07-27.md) | block/buzz | 1,710 |
 | [2026-07-28](2026-07-28.md) | permissionlesstech/bitchat | 2,346 |
 | [2026-07-29](2026-07-29.md) | bradautomates/claude-video | 988 |
+| [2026-07-30](2026-07-30.md) | virgiliojr94/book-to-skill | 1,421 |
 
 ---
 
