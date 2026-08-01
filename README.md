@@ -13,6 +13,7 @@ Daily summaries of [GitHub Trending](https://github.com/trending) repositories, 
 | [2026-07-29](2026-07-29.md) | bradautomates/claude-video | 988 |
 | [2026-07-30](2026-07-30.md) | virgiliojr94/book-to-skill | 1,421 |
 | [2026-07-31](2026-07-31.md) | different-ai/openwork | 915 |
+| [2026-08-01](2026-08-01.md) | microsoft/AI-For-Beginners | 1,592 |
 
 ---
 
