@@ -16,6 +16,7 @@ Daily summaries of [GitHub Trending](https://github.com/trending) repositories, 
 | [2026-08-01](2026-08-01.md) | microsoft/AI-For-Beginners | 1,592 |
 | [2026-08-02](2026-08-02.md) | zhaoxuya520/reverse-skill | 1,320 |
 | [2026-08-03](2026-08-03.md) | microsoft/AI-For-Beginners | 2,629 |
+| [2026-08-04](2026-08-04.md) | zhaoxuya520/reverse-skill | 2,446 |
 
 ---
 
